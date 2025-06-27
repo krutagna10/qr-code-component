@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
 
 ### Screenshot
@@ -21,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-f9OW9tBHwM](https://your-solution-url.com)
+- Live Site URL: [https://qr-code-component-10.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
- 
+
 - React
 - Typescript
 - Tailwind CSS
@@ -36,10 +35,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 In React, we can't use images with regular paths like in HTML. We need to either put them in the public folder or import them from the src folder.
 
-
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-
-
+- Frontend Mentor - [@krutagna10](https://www.frontendmentor.io/profile/krutagna10)
